@@ -1,0 +1,21 @@
+[18512:31688:0518/013438.887:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[18512:31688:0518/013438.937:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[16080:9128:0518/013443.423:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-17D6A7CD0F5540722BA94C2C2FFE0910 will be ignored
+[18512:30908:0518/013444.597:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[18512:31688:0518/013445.184:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[18512:31688:0518/013445.184:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[18512:31688:0518/013445.187:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[18512:31688:0518/013445.187:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[18512:30908:0518/013445.189:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[4776:27080:0518/013449.260:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4776:27080:0518/013449.466:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4776:22932:0518/013449.471:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4776:22932:0518/013449.472:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[4776:22932:0518/013449.472:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[31624:21532:0518/013449.714:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[31624:21532:0518/013449.719:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[31624:21532:0518/013449.719:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[31624:21532:0518/013449.719:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[4776:22932:0518/013449.719:WARNING:stun_port.cc(442)] Port[4aa9c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[4776:22932:0518/013449.720:WARNING:stun_port.cc(442)] Port[4aaa400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[4776:22932:0518/013449.720:WARNING:stun_port.cc(442)] Port[4aaac00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
